@@ -1,0 +1,33 @@
+{
+  "inventory": [
+    {
+      "product_id": "P1001",
+      "product_name": "MIG Tip Extender",
+      "quantity": 100,
+      "price_per_unit": 15.99,
+      "category": "Welding Accessories"
+    },
+    {
+      "product_id": "P1002",
+      "product_name": "Welding Helmet",
+      "quantity": 50,
+      "price_per_unit": 89.95,
+      "category": "Safety Equipment"
+    },
+    {
+      "product_id": "P1003",
+      "product_name": "Welding Gloves",
+      "quantity": 200,
+      "price_per_unit": 12.50,
+      "category": "Safety Equipment"
+    },
+    {
+      "product_id": "P1004",
+      "product_name": "Metal Grinding Disc",
+      "quantity": 150,
+      "price_per_unit": 4.75,
+      "category": "Grinding & Cutting"
+    }
+  ],
+  "last_updated": "2025-07-31T12:00:00Z"
+}
